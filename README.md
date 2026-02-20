@@ -62,8 +62,8 @@
 
 ### 📊 Performance Metrics
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=manialimohammadi&show_icons=true&theme=tokyonight&title_color=5ED1FF&text_color=ffffff&icon_color=5ED1FF&hide_border=true" width="400" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=manialimohammadi&layout=compact&theme=tokyonight&title_color=5ED1FF&text_color=ffffff&hide_border=true" width="300" />
+ 
+
   <br/>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=manialimohammadi&theme=tokyonight&fire=5ED1FF&ring=5ED1FF&stroke=5ED1FF&hide_border=true" width="715" />
 </div>
