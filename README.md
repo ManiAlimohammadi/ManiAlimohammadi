@@ -1,9 +1,9 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=soft&color=auto&height=200&section=header&text=Mani%20Alimohammadi&fontSize=70&animation=fadeIn&fontColor=5ED1FF" width="100%" />
-  
+  <img src="https://capsule-render.vercel.app/api?type=soft&color=001524&height=200&section=header&text=Mani%20Alimohammadi&fontSize=60&animation=fadeIn&fontColor=5ED1FF&desc=AI%20Engineer%20|%20Generative%20Systems&descSize=20&descAlignY=65" width="100%" />
+
   <br/>
   
-  <h1>Hi 👋, I'm Mani</h1>
+  <h1>Hi 👋, I'm Mani Alimohammadi</h1>
   <h3>AI Engineer focused on Generative Systems 🚀</h3>
 
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=5ED1FF&center=true&vCenter=true&width=550&lines=Programming+%2B+AI+%3D+%E2%9D%A4%EF%B8%8F;Diffusion+Models+Expert;Building+Generative+Architectures;Python+%7C+PyTorch+%7C+Deep+Learning" alt="Typing SVG" />
@@ -20,12 +20,7 @@
 
 ### 🤝 Connect with Me
 <p align="left">
-  <a href="https://github.com/manialimohammadi" target="blank">
-    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-  </a>&nbsp;&nbsp;
-  <a href="https://linkedin.com/in/mani-alimohammadi-149819321/" target="blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
+<a href="https://linkedin.com/in/mani-alimohammadi-149819321/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" /></a>
 </p>
 
 ---
@@ -67,8 +62,8 @@
 
 ### 📊 Performance Metrics
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=manialimohammadi&show_icons=true&theme=tokyonight&title_color=5ED1FF&hightlight=5ED1FF&hide_border=true" width="400" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=manialimohammadi&layout=compact&theme=tokyonight&title_color=5ED1FF&hide_border=true" width="300" />
+  <img src="https://github-readme-stats.vercel.app/api?username=manialimohammadi&show_icons=true&theme=tokyonight&title_color=5ED1FF&text_color=ffffff&icon_color=5ED1FF&hide_border=true" width="400" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=manialimohammadi&layout=compact&theme=tokyonight&title_color=5ED1FF&text_color=ffffff&hide_border=true" width="300" />
   <br/>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=manialimohammadi&theme=tokyonight&fire=5ED1FF&ring=5ED1FF&stroke=5ED1FF&hide_border=true" width="715" />
 </div>
